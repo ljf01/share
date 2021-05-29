@@ -1,0 +1,2 @@
+数据传输对象Data Transfer Object用于封装多个实体类domain之间的关系，不破坏原有的实体类结构
+
